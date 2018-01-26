@@ -58,7 +58,7 @@ def artillery_targeting(round, wind, humidity):   #Specify the round first.
     coordinatesY = input("y-grid")
     #complex calculations
     print(result_angle)
-    return sixty_two(some_coefficient)
+    return sixty_two(external_factors)
   
   def eighty(x,y):
     x-grid = None
@@ -68,7 +68,7 @@ def artillery_targeting(round, wind, humidity):   #Specify the round first.
    
   #PYTHON READS THIS PART FIRST.  Environment diagram, bro.
   if round == 62:
-    return sixty_two()  #This is a function call. 
+    return sixty_two(some_coefficient)  #This is a function call. 
   elif round == 80:
     return eighty  #NOTE: this returns a function.  No function call. 
 
@@ -77,6 +77,7 @@ def artillery_targeting(round, wind, humidity):   #Specify the round first.
 #>>> settings(13434.290, 32204.29943)
 #     450 North and 34 East
 #>>> settings(132.1, 332.30)
+#     450 North and 334 East
 
 #And so on and so forth.  See the difference? A lot of time saved by the function "storing" the settings 
 #and returning a fine-tuned function.
@@ -85,9 +86,12 @@ def artillery_targeting(round, wind, humidity):   #Specify the round first.
 #>>> artillery_targeting(62, "30, south", 0.133)
 #>>> x grid? : 
 #>>> y grid? :
+# 293 North and 23 East
 #(Shell presumed to be fired)
 #>>> x grid? : 
 #>>> y grid? :
+# 122 North and 34 East
+
 #And so on an so forth.
     
 #Same idea, just a different way of doing input. Calculations are stored, and a "pure" function which takes in only
