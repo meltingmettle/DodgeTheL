@@ -18,10 +18,12 @@ our relationships and wise use of discretionary time.
 An experience that stood out to me the Friday before retreat was a conversation I had with one of my peers. (The one who can be named in four letters)(You know who you are)
 Being done with 70 homework, and LateX-ing with a fairly free afternoon, I ran into one of my peers who was waiting in the foyer of DL.  Turns out he was waiting for a bus to Northside, and I was expecting a 5 minute conversation of "yo" and "alright later mate".
 
-The opposite ended up following with a nearly 45-minute conversation over our semesters, struggles to budget time, and general challenges of living out a Christ-centered life. I was really blessed by the time that we had to talk, and I was incredibly grateful that I had somehow managed to finish my work early and allocate such a siginificant amount of time on the fly.  
+
+The opposite ended up following with a nearly 45-minute conversation over our semesters, struggles to budget time, and general challenges of living out a Christ-centered life.  I was really blessed by the time that we had to talk, and I was incredibly grateful that I had somehow managed to finish my work early and allocate such a siginificant amount of time on the fly.  
 
 
 **My take is as such:**
+
 Work now and get it done.  Assume that you are going to run into someone who needs to talk in two hours or one of your peers is going to get sick and need help on the project, or your high school friend is going to call you for help that afternoon. 
 By focusing on "soft" tasks that need to get done which both benefit other people and add a bit of pressure to your schedule,
 you can find that extra dose of motivation that you couldn't find from inside yourself. 
