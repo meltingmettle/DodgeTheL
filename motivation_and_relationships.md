@@ -7,15 +7,14 @@
     Situation never what you want it to be
          ~SUM 41
 
-Over Sophomore/Junior retreat this last Fall, Pastor Ed noted how the over-use of the mobile phone and addiction to internet usage 
-had a tendency to sop up free time and decrement our ability to take the time to invest in our peers or take time to have 
-a long and meaningful conversation. 
+Over Sophomore/Junior retreat this last Fall, Pastor Ed noted how the over-use of the mobile phone and addiction to internet usage ate up our free time and decremented the time we had to invest in our peers or have long and meaningful conversation. 
 
-In addition to this, phones and applications with colorful, intermittent rewards and infinite-scroll features further detract from 
-our relationships and wise use of discretionary time.  
+In addition to this, phones and apps with colorful, intermittent reward systems and infinite-scroll features further detract from our relationships and wise use of discretionary time.  
 
 
-An experience that stood out to me the Friday before retreat was a conversation I had with one of my peers. (The one who can be named in four letters)(You know who you are)
+An experience that stood out to me the Friday before retreat was a conversation I had with one of my peers. (The one who can be named in four letters)
+
+
 Being done with 70 homework, and LateX-ing with a fairly free afternoon, I ran into one of my peers who was waiting in the foyer of DL.  Turns out he was waiting for a bus to Northside, and I was expecting a 5 minute conversation of "yo" and "alright later mate".
 
 
@@ -24,7 +23,8 @@ The opposite ended up following, with a nearly 45-minute conversation spanning o
 
 **My approach is as such:**
 
-Work now and get it done.  Doesn't matter how long or how short.  Assume that you are going to run into someone who needs to talk in two hours or one of your peers is going to get sick and need help on the project, or your high school friend is going to call you for help that afternoon. 
+Work now and get it done.  Doesn't matter how long or how short.  Assume that you are going to run into someone who needs to talk in two hours or one of your peers is going to get sick and need help on the project, or your high school friend is going to call you that afternoon. 
+
 By focusing on "soft" tasks that need to get done which both benefit other people and add a bit of pressure to your schedule,
 you can find that extra dose of motivation that you couldn't find from inside yourself. 
 
