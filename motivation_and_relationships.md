@@ -7,7 +7,7 @@
     Situation never what you want it to be
          ~SUM 41
 
-Over Sophomore/Junior retreat this last Fall, Pastor Ed noted how the over-use of the mobile phone and addiction to interet usage 
+Over Sophomore/Junior retreat this last Fall, Pastor Ed noted how the over-use of the mobile phone and addiction to internet usage 
 had a tendency to sop up free time and decrement our ability to take the time to invest in our peers or take time to have 
 a long and meaningful conversation. 
 
