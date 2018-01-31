@@ -29,7 +29,7 @@ What is doing well? <br />
 The standard that you apply will be the standard that you recieve. <br />
 A good measure, pressed down, shaken together, and running over will be given to you. <br />
 <br />
-I'll catch you later!
+I'll catch you later!<br />
 -meltingmettle
 
 
