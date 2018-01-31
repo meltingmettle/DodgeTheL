@@ -5,7 +5,7 @@
 
 # Hello there!
 
-I'm glad you're here!  Please apply if you know my voice!  <br />
+I'm glad you're here! <br />
 <br />
 I know that the midterm is coming up, and that section doesn't start until after midterm 1. <br />
 Let not your hearts be troubled.  I am preparing a place for you!  <br />
