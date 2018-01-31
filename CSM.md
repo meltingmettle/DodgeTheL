@@ -7,8 +7,7 @@
 
 I'm glad you're here! <br />
 <br />
-I know that the midterm is coming up, and that section doesn't start until after midterm 1. <br />
-Let not your hearts be troubled.  I am preparing a place for you!  <br />
+I know that the midterm is coming up, but let not your hearts be troubled.  I am preparing a place for you!  <br />
 Those who are excelling have no need of a teacher, but those who are struggling.  <br />
 <br />
 <br />
@@ -21,7 +20,7 @@ My goal is not for you to do well in this class.<br />
 <br />
 I would like you to do well enough in this class such that you have time to think about things that actually matter.  <br />
 I want you to do well in this class, well in this semester, well in this year, the rest of your life, and everything after that.  <br />
-A loft objective, indeed, so I'm going to need your help on this.  <br />
+A lofty objective, indeed, so I'm going to need your help on this.  <br />
 
 <br />
 <br />
