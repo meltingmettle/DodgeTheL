@@ -15,15 +15,15 @@ def function():
 def potato(x):
   return function
   
->>> function
+.>>> function
 <function> at 2930914
->>>potato
+.>>>potato
 <function> at 389234
->>>function()
+.>>>function()
 1
->>> potato(3)
+.>>> potato(3)
 function
->>> potato(2)()
+.>>> potato(2)()
 1
 
 Above, note that potato(2) evaluates to function, so it's the same as calling function().
@@ -31,10 +31,10 @@ Above, note that potato(2) evaluates to function, so it's the same as calling fu
 # Function call = no frame
 # Practice this until you know it like instinct.
 
-2. Parent frame
-A function's parent frame is the frame where the function is defined in
+2. Parent frame  
+A function's parent frame is the frame where the function is defined in  
 
-3. Return statement
+3. Return statement  
 Don't forget this
 
 # WWPD 
