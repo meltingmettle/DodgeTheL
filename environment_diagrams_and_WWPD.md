@@ -10,15 +10,15 @@ is no input or parentheses, Python doesn't know how to run the function or what 
 so let's say:
 
 def function(): <br />
-  return 1 <br />
+    return 1 <br />
   <br />
 def potato(x): <br />
-  return function <br />
+    return function <br />
   
 .>>> function <br />
-<function> at 2930914 <br />
+function> at 2930914 <br />
 .>>>potato <br />
-<function> at 389234 <br />
+function> at 389234 <br />
 .>>>function() <br />
 1 <br />
 .>>> potato(3) <br />
