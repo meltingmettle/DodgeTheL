@@ -22,6 +22,11 @@ If you have the slightest idea of what's going on, write it down and try your be
 
 
 # Find help. :) 
+
+There's GP Sessions:
+Monday night at DL, 7-9
+Wednesday night, either DH or DL, TBD
+
 There are a plethora of review session and uppers who can help you out! Don't feel stuck.  Ask for help, do reviews and practice tests, get stuck, and keep working at it.  
 
 It's going to be good.  
