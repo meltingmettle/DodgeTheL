@@ -1,5 +1,6 @@
 
 # Study environment diagrams hard. It will pay off.
+# If you get stuck, follow the rules and use what you already know
 You should already know how to do this, so I'm only going to cover technical details/common mistakes.
 
 The good news is that there's only 4-5 tricks that they can really throw at you, so if you practice enough, you'll be good.
@@ -28,7 +29,9 @@ function <br />
  <br />
 Above, note that potato(2) evaluates to function, so it's the same as calling function().
 # No parentheses () = no function call
-# Function call = no frame
+# Function call = open new frame
+# Parent frame is where the function/lambda is defined.
+Remember that a lambda is just like a function.  
 # Practice this until you know it like instinct.
 
 2. Parent frame  
