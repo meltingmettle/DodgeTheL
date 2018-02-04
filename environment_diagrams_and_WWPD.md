@@ -9,23 +9,23 @@ Every time you make a function call, ie call_function(),  note the parentheses, 
 is no input or parentheses, Python doesn't know how to run the function or what to pass in.  
 so let's say:
 
-def function():
-  return 1
+def function(): <br />
+  return 1 <br />
+  <br />
+def potato(x): <br />
+  return function <br />
   
-def potato(x):
-  return function
-  
-.>>> function
-<function> at 2930914
-.>>>potato
-<function> at 389234
-.>>>function()
-1
-.>>> potato(3)
-function
-.>>> potato(2)()
-1
-
+.>>> function <br />
+<function> at 2930914 <br />
+.>>>potato <br />
+<function> at 389234 <br />
+.>>>function() <br />
+1 <br />
+.>>> potato(3) <br />
+function <br />
+.>>> potato(2)() <br />
+1 <br />
+ <br />
 Above, note that potato(2) evaluates to function, so it's the same as calling function().
 # No parentheses () = no function call
 # Function call = no frame
