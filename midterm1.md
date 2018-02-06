@@ -20,6 +20,10 @@ For WWPD, play around with python in your console, specifically with True/False,
 ** GO FOR PARTIAL **
 If you have the slightest idea of what's going on, write it down and try your best.  2 points is significant. (Again, out of 40, and the average is around 20)
 
+Spend enough time to get about 100%, or as much as you can on the first half, then try to do the coding questions.
+
+Take your time to read the question and write as much as you can; one complete question is better than two half-filled and better than three "n > 0" panic scribbles.
+
 
 # Find help. :) 
 
