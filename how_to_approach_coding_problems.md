@@ -27,7 +27,6 @@ Note that there are two facets to this method.  One is understanding a solution,
 You should be able to create a test case/example
 DO NOT panic code.  That will not work. :P   
 
-
   
 2.  Again, don't get caught up in the "oh crap" of a tough coding problem with a ton of lines and seemingly useless  
 starter code.
@@ -35,3 +34,9 @@ starter code.
 3.  If you see a condition, make an if.  If there's something that needs to be stored, assign a variable.  If you need to look through a list, use a for loop.  If you need to recurse, throw in the base case.
 
 4.  This part is tricky.  Go for partial XD
+
+
+# If you're stuck
+1. Look at the doc tests
+2. Look at the line structure. Make sure you've assigned all the variables and made enough return statements
+3. Make sure you're using all the input variables.  They never pass in values for lols :P 
