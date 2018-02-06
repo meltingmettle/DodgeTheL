@@ -3,6 +3,12 @@
 # If you get stuck, follow the rules and use what you already know
 You should already know how to do this, so I'm only going to cover technical details/common mistakes.
 
+        1. Parent Frame
+        2. Lambdas/Higher-order-functions
+        3. Function call vs. function reference
+        4. multiple input/output
+        5. Return statement
+
 The good news is that there's only 4-5 tricks that they can really throw at you, so if you practice enough, you'll be good.
 
 1. Function call vs Function definition
@@ -70,6 +76,8 @@ def print(x)
   return None  
   
 So what will (3 and print(4)) evaluate to? What about bool(10 and print(10))?  
+
+
 
 
 
