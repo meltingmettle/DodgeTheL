@@ -7,7 +7,8 @@
 
 I'm glad you're here! <br />
 <br />
-My section is in 283 Soda on Tuesdays at 5:00PM. Those who are excelling have no need of a teacher, but those who are struggling.  Feel free to apply! On that day, many people will say "teacher, teacher!". 
+My section is in 283 Soda on Tuesdays at 5:00PM. 
+Feel free to apply!  Those who are excelling have no need of a teacher, but those who are struggling. <br />
 <br />
 You can catch me at DL or in the Chaos Compound.  I have office hours by appointment every other day.  <br />
 <br />
