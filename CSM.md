@@ -7,12 +7,10 @@
 
 I'm glad you're here! <br />
 <br />
-I know that the midterm is coming up, but let not your hearts be troubled.  I am preparing a place for you!  <br />
-Those who are excelling have no need of a teacher, but those who are struggling.  <br />
+My section is in 283 Soda on Tuesdays at 5:00PM. Those who are excelling have no need of a teacher, but those who are struggling.  <br />
 <br />
 <br />
-You can catch me at DL or in the Chaos Compound.   <br />
-We'll be doing tutoring and review sessions from now until the midterm!<br />
+You can catch me at DL or in the Chaos Compound.  I have office hours by appointment every other day.  <br />
 <br />
 <br />
 <br />
