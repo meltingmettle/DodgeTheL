@@ -49,7 +49,11 @@ Spend enough time to get about 100%, or as much as you can on the first half, th
 Take your time to read the question and write as much as you can; one complete question is better than two half-filled and better than three "n > 0" panic scribbles.
 
 # Chill. 
-It's going to be good! Take a mental break around an hour beforehand. 
+It's going to be good! Take a mental break around an hour before the test to rest! 
+
+
+Keep me updated on how you're doing!!
+
 
 ___________________________________________
 ___________________________________________
@@ -57,6 +61,12 @@ ___________________________________________
 ___________________________________________
 ___________________________________________
 ___________________________________________
+___________________________________________
+_____________________________________________________________________________________
+
+___________________________________________
+___________________________________________
+Advice from a time which has already passed
 
 # You might have screwed up.
 But you have time! If you do one practice test every day until Thursday, you will be more than fine. :)
