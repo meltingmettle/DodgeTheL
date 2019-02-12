@@ -34,6 +34,8 @@ Worse case, go for psuedocode.
         return total
 
 
+dont forget "1 and 4 or /0"
+
 # Strategy for dummies
 The test is out of 40 points. About 20 are in the first half of the test, namely WWPD and Environment Diagrams.
 These are considered the "easy" points.  If you do enough practice of these, you can predictably get ~90% on this part.  
